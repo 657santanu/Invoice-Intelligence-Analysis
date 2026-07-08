@@ -13,7 +13,6 @@ Freight Cost Prediction & Invoice Risk Flagging
 - <a href="#application">Application</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#author--contact">Author & Contact</a>
 
 ---
 
@@ -169,8 +168,4 @@ python inference/predict_invoice_flag.py</code></pre>
 <p>4. Open Application:</p>
 <pre><code>streamlit run app.py</code></pre>
 
-<h2><a class="anchor" id="author--contact"></a>✍️ Author & Contact</h2>
 
-<h3>Santanu Rakshit</h3>
-
-📧 **Email:** <a>rakshitgopal440@gmail.com</a>  # Invoice-Intelligence-Analysis
